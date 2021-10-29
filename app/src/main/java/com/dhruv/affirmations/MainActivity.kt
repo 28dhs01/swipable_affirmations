@@ -1,11 +1,10 @@
-package com.example.affirmations
+package com.dhruv.affirmations
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.provider.ContactsContract
-import com.example.affirmations.adapter.ItemAdapter
-import com.example.affirmations.data.DataSource
-import com.example.affirmations.databinding.ActivityMainBinding
+import com.dhruv.affirmations.adapter.ItemAdapter
+import com.dhruv.affirmations.data.DataSource
+import com.dhruv.affirmations.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

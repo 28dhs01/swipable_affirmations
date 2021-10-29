@@ -1,4 +1,4 @@
-package com.example.affirmations
+package com.dhruv.affirmations
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

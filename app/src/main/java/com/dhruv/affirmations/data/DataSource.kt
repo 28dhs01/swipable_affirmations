@@ -1,7 +1,7 @@
-package com.example.affirmations.data
+package com.dhruv.affirmations.data
 
-import com.example.affirmations.R
-import com.example.affirmations.model.Affirmations
+import com.dhruv.affirmations.R
+import com.dhruv.affirmations.model.Affirmations
 
 class DataSource {
     fun loadAffirmations(): List<Affirmations>{

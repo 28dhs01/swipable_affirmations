@@ -1,4 +1,4 @@
-package com.example.affirmations.adapter
+package com.dhruv.affirmations.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.affirmations.R
-import com.example.affirmations.model.Affirmations
+import com.dhruv.affirmations.R
+import com.dhruv.affirmations.model.Affirmations
 
 class ItemAdapter(
     private val context: Context,

@@ -1,4 +1,4 @@
-package com.example.affirmations.model
+package com.dhruv.affirmations.model
 
 data class Affirmations(
     val stringResourceId: Int,
